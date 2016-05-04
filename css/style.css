@@ -1,4 +1,4 @@
-@import url("//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;lang=en");
+/*@import url("//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;lang=en");*/
 .form-card {
     padding: 30px;
     border: 1px #666 solid;
@@ -5424,4 +5424,12 @@ body.skin-3 {
     .welcome-message {
         display: none;
     }
+}
+
+#head-page{
+    padding-top:60px;
+}
+
+#map{
+    padding-top:20px;
 }
